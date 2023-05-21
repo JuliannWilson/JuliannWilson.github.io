@@ -1,0 +1,58 @@
+ <style>
+img {width: 100%}
+body {
+  background-image: url("galaxy.png");
+  background-size:cover;
+}
+
+.navbar-brand{
+color:white;
+position:center;
+padding:0px 0px;
+}
+h3{
+color:white;
+}
+
+h2{
+color:white;
+}
+.myslides{}
+
+ul{
+list-style-type: none;
+margin:0;
+padding:0px;
+overflow: hidden;
+background-color: black;
+}
+
+li{
+float:center;
+}
+li a{
+display:block;
+text-align:center;
+padding:10px 20px;
+text-decoration:none;
+color:white;
+}
+li a:hover{
+background-color:white;
+color:purple;
+}
+/*--positioning for the menu--*/
+.sitenav{
+position:sticky;
+top:0;
+}
+
+footer{
+	background-color: black;
+	height:auto
+	width:100px;
+	font-family:;
+	padding top: 40px;
+	color: white;
+}
+</style>

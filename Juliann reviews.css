@@ -1,0 +1,56 @@
+<style> 
+img {width: 100%
+}
+
+body {
+  background-image: url("galaxy.png");
+  background-size:cover;
+}
+h{
+color:white;
+font-size:35px;
+text-align: left;
+}
+
+.nsr{
+	height:20px;
+}
+
+h1{
+color:white;
+font-size:35px;
+text-align: left;
+}
+p{
+color:white;
+font-size:15px;
+text-align: left;
+}
+
+.navbar-brand{
+color:grey;
+text-align:center;
+padding:10px 20px;
+}
+ul{
+list-style-type: none;
+margin:0;
+padding:0px;
+overflow: hidden;
+background-color: black;
+}
+
+
+footer{
+	background-color: black;
+	height:auto
+	width:100px;
+	font-family:;
+	padding top: 40px;
+	color: white;
+}
+
+{
+	position: center;
+}
+</style>

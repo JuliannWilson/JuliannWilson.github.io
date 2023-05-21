@@ -1,0 +1,27 @@
+ <style>
+body {
+ 
+}
+
+.navbar-brand{
+color:white;
+text-align:center;
+padding:10px 20px;
+}
+ul{
+list-style-type: none;
+margin:0;
+padding:0px;
+overflow: hidden;
+background-color: black;
+}
+
+footer{
+	background-color: black;
+	height:auto
+	width:100px;
+	font-family:;
+	padding top: 40px;
+	color: white;
+}
+</style>
